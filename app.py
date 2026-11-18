@@ -1,3 +1,4 @@
+# KR2: Chernov
 import os
 import socket
 
